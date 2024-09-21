@@ -22,4 +22,4 @@ from sklearn.metrics import r2_score
 ```
 
 # Model Choosing
-The algorithm that gives the best performance is selected, the hyperparameter is optimized and the selected algorithm is evaluated. In this project, it was decided that the regression model that gives the best performance is Ridge. In the evaluation process, Mean Squared Error and Mean Absolute Error were used in this project.
+The algorithm that gives the best performance is selected, the hyperparameter is optimized and the selected algorithm is evaluated. In this project, it was decided that the regression model that gives the best performance is Ridge. In the evaluation process, Mean Squared Error and Mean Absolute Error were used for supervised learning and used PCA for unsupervised learning in this project.
